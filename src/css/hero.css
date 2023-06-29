@@ -1,5 +1,3 @@
-.hero {
-    background-image: url('/img/vite-logo.png');
-    background-position: center;
-    background-repeat: no-repeat;
+.text-hero {
+  color: aquamarine;
 }
